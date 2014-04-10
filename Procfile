@@ -1,1 +1,1 @@
-pserve geekie/production.ini http_port=$PORT
+web: pserve production.ini http_port=$PORT

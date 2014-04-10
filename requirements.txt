@@ -1,0 +1,5 @@
+setuptools-git==1.0b1
+pyramid==1.4.2
+waitress==0.8.5
+
+-e .
