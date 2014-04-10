@@ -20,6 +20,7 @@ setuptools.setup(
         "requests==2.1.0",
         "setuptools-git==1.0b1",
         "waitress==0.8.5",
+        "twilio",
     ],
     entry_points={
         "paste.app_factory": "main = geekie.sms.main:main",
